@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indo Asian Packers & Movers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Indo Asian Packers & Movers</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Trusted Moving & Packing Services</h2>
+    <p>Household Shifting • Office Shifting • Car Transportation</p>
+    <a href="contact.html" class="btn">Get a Quote</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Indo Asian Packers & Movers | Call: 9992016344</p>
+  </footer>
+</body>
+</html>
